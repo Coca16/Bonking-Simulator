@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Google.Protobuf.WellKnownTypes;
 using MySql.Data.MySqlClient;
-using MySql.Data.Types;
 using Newtonsoft.Json;
 
 namespace Bonking
